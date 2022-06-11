@@ -5,7 +5,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathurAnshari&layout=compact"/>
 
 # Touch Me 😁
-<ul style=>
+<ul>
   <li><a target="blank" href="https://www.linkedin.com/in/fathurmfa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Fathur Anshari-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </li>
   <li><a href="https://www.instagram.com/alanshari__/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/alanshari__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
