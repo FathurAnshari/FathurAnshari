@@ -6,5 +6,11 @@
 
 # Touch Me
 <ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/fathurmfa/" target="_blank">Fathur Anshari</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/fathurmfa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </li>
+  <li>Instagram: <a href="https://www.instagram.com/alanshari__/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  </li>
 </ul>
+
+
+
