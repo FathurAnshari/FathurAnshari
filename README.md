@@ -1,10 +1,10 @@
-# Hello there, I'm Fathur! 👋
+## Hello there, I'm Fathur! 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FathurAnshari&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathurAnshari&layout=compact"/>
 
-# Touch Me 😁
+## Touch Me 😁
 <ul>
   <li><a target="blank" href="https://www.linkedin.com/in/fathurmfa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Fathur Anshari-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </li>
@@ -12,7 +12,7 @@
   </li>
 </ul>
 
-# Language and Tools:
+## Language and Tools:
 <table style="width:100%">
   <tr>
     <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></th>
